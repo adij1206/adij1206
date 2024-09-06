@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Jain</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adij1206&label=Profile%20views&color=0e75b6&style=flat" alt="adij1206" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently working at **Tekion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adij1206](https://github.com/adij1206)
 
