@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adij1206](https://github.com/adij1206)
 
-- 💬 Ask me about **Java,Python.**
+- 💬 Ask me about **Java.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
